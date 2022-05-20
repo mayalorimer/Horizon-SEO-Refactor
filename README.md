@@ -4,6 +4,16 @@
 
 This code's intention is to meet accessability standards and optimize the website for seach engines. The refactor of the original code allows for greater accessability through use of alts and a more condensed and specific organization. Throughout my refactoring of the code I learned the importance of organization to help others understand your code.
 
+## Links
+
+Use this link to access the GitHub page for this code
+
+* https://mayalorimer.github.io/Horizon-SEO-Refactor/
+
+Use this link to access the Repository
+
+* https://github.com/mayalorimer/Horizon-SEO-Refactor
+
 ## Technologies  
 
 * HTML  
@@ -19,13 +29,6 @@ The website can be run directly in the browser.
 ![Horiseon website example 2](assets/images/Horiseon-website-2.png)
 
 ![Horiseon website example 3](assets/images/Horiseon-website-3.png)
-
-
-## Link
-
-Use this link to access the GitHub page for this code
-
-https://mayalorimer.github.io/Horizon-SEO-Refactor/
 
 ## Credits
 

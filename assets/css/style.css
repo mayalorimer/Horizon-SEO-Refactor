@@ -1,13 +1,16 @@
+/* Universal selector to style all elements within the page */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/* applies a background color to the body section of the webpage */
 body {
     background-color: #d9dcd6;
 }
 
+/* sets formatting for all parts of the header */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -24,6 +27,7 @@ header h1 .seo {
     color: #d9dcd6;
 }
 
+/* sets formatting for the nav bar in the header */
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -50,6 +54,7 @@ p {
     font-size: 16px;
 }
 
+/* formmating for the figure on the page with the image link */
 .hero {
     height: 800px;
     width: 100%;
@@ -75,6 +80,7 @@ p {
     margin-left: 20px;
 }
 
+/* groups the sections in the main to allow for similar formatting */
 .search-engine-optimization,
 .online-reputation-management,
 .social-media-marketing {
@@ -86,6 +92,7 @@ p {
     color: #ffffff;
 }
 
+/* Sets a max height for the images in the main  */ 
 .search-engine-optimization img,
 .online-reputation-management img,
 .social-media-marketing img {
@@ -99,6 +106,7 @@ p {
     font-size: 36px;
 }
 
+/* aligns the aside to the right side of the page and assigns formating to the 3 child elements */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -110,6 +118,7 @@ p {
     background-color: #2589bd;
 }
 
+/* aside classes are grouped for consistent formatting */
 .benefit-lead,
 .benefit-brand,
 .benefit-cost {
@@ -132,6 +141,7 @@ p {
     max-width: 150px;
 }
 
+/* sets formatting for footer */
 footer {
     padding: 30px;
     clear: both;
