@@ -4,23 +4,29 @@
 
 This code's intention is to meet accessability standards and optimize the website for seach engines. The refactor of the original code allows for greater accessability through use of alts and a more condensed and specific organization. Throughout my refactoring of the code I learned the importance of organization to help others understand your code.
 
-## Installation 
+## Technologies  
 
-This website is available by running the HTML file in a browser. 
+* HTML  
+* CSS
 
 ## Usage
 
 The website can be run directly in the browser. 
 
-```md
+
 ![Horiseon website example 1](assets/images/Horiseon-website-1.png)
-```
-```md
+
 ![Horiseon website example 2](assets/images/Horiseon-website-2.png)
-```
-```md
+
 ![Horiseon website example 3](assets/images/Horiseon-website-3.png)
-```
+
+
+## Link
+
+Use this link to access the GitHub page for this code
+
+https://mayalorimer.github.io/Horizon-SEO-Refactor/
+
 ## Credits
 
 UCLA Coding Bootcamp Git Lab: https://uclax.bootcampcontent.com/UCLA-Coding-Boot-Camp/UCLA-VIRT-FSF-FT-05-2022-U-LOLC/-/blob/main/01-HTML-Git-CSS/02-Challenge/README.md
@@ -29,7 +35,7 @@ UCLA Coding Bootcamp Git Lab: https://uclax.bootcampcontent.com/UCLA-Coding-Boot
 
 MIT License
 
-Copyright (c) [year] [fullname]
+Copyright (c) [2022] [Maya Lorimer]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
